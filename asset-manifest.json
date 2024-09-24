@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Remainder-App/static/css/main.477c1070.css",
+    "main.js": "/Remainder-App/static/js/main.32448ae3.js",
+    "static/js/453.e52305e5.chunk.js": "/Remainder-App/static/js/453.e52305e5.chunk.js",
+    "index.html": "/Remainder-App/index.html",
+    "main.477c1070.css.map": "/Remainder-App/static/css/main.477c1070.css.map",
+    "main.32448ae3.js.map": "/Remainder-App/static/js/main.32448ae3.js.map",
+    "453.e52305e5.chunk.js.map": "/Remainder-App/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477c1070.css",
+    "static/js/main.32448ae3.js"
+  ]
+}
